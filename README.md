@@ -23,3 +23,6 @@ pyhton Ai.py
 ```python 
 message = await AIBOT.send_message('سلام')
 ```
+<br/>
+
+### <p style="text-align: center"> <a href='https://t.me/HadiRostamiYT'> Telegram </a> | <a href='https://www.instagram.com/hadirostamiyt?igsh=MTQ4bDN1bHI3aWk3cg=='> Instagram </a> </p>
