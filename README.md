@@ -3,7 +3,7 @@
 ### 1- Instalaition Dependencies
 
 ```shell
-pip install -U httpx
+pip install -r requirements.txt
 ```
 
 
